@@ -1,4 +1,8 @@
 _repo: Ueber-die-Arsenikvergiftung-ihre-Hulfe-und-gerichtliche-Ausmittelung_46878
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46878-h/images/cover.jpg
 creator:
   author:
     agent_name: Hahnemann, Samuel
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44007
     wikipedia: http://de.wikipedia.org/wiki/Samuel_Hahnemann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46878#Ueber-die-Arsenikvergiftung-ihre-Hulfe-und-gerichtliche-Ausmittelung
 gutenberg_issued: '2014-09-16'
 gutenberg_type: Text
 identifiers:
